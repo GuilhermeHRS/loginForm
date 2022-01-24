@@ -6,6 +6,8 @@ This project is a Login Form for studies &amp; portfólio |  HTML5, CSS3, SCSS &
 
 #### Nice studies!
 
+* CHANGE THE BRANCH TO SEE THE COMMITS
+
 <hr/>
 
 Este projeto é um Formulário de Login, estou desenvolvendo para estudos e portfólio | HTML5, CSS3, SCSS &amp; JS
@@ -13,4 +15,6 @@ Este projeto é um Formulário de Login, estou desenvolvendo para estudos e port
 Você pode usar este projeto para uso pessoal, apenas deixe uma nota dizendo o que achou e se possível, me dê sugestões!
 
 Bons estudos!
+
+* Mude a branch para visualizar os commits
 
