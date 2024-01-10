@@ -6,7 +6,6 @@ This project is a Login Form for studies &amp; portfólio |  HTML5, CSS3, SCSS &
 
 #### Nice studies!
 
-* CHANGE THE BRANCH TO SEE THE COMMITS
 
 <hr/>
 
@@ -16,5 +15,4 @@ Você pode usar este projeto para uso pessoal, apenas deixe uma nota dizendo o q
 
 Bons estudos!
 
-* Mude a branch para visualizar os commits
 
